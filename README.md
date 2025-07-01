@@ -1,4 +1,4 @@
-# Console.ReadLine("Hello World");
+# console.log("Hello World");
 
 I am a student at the National University of El Salvador, I am 20 years old, I am learning to program
 
